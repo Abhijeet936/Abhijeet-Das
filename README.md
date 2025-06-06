@@ -40,10 +40,8 @@ const learner = {
 ```text
 Programming Languages & Tools
 ---------------------------
-Python       ████████░░░░   65%
 HTML/CSS     ██████████░░   80%
 JavaScript   ███████░░░░░   55%
-Git          ████████░░░░   65%
 ```
 
 <details>
